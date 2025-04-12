@@ -25,17 +25,10 @@
 `Spring Boot` `MySQL` `REST`  
 Шеринг-сервис для аренды вещей с бронированием и системой отзывов (аналог Airbnb для предметов).
 
-#### [Filmorate](https://github.com/Kztk-1/Filmorate) 
+#### [Filmorate](https://github.com/Kztk-1/Filmorate)  
 `Java` `Spring` `Maven`  
-Социальная платформа для оценки фильмов (в разработке).
+Социальная платформа для оценки фильмов с многоуровневой архитектурой (Controller → Service → Storage), использованием MySQL в качестве основного хранилища, H2 для тестирования и покрытием логики юнит-тестами на JUnit.
 
----
-
-### 🎨 **3D**
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-FFFFFF?style=for-the-badge)
-![Substance Painter](https://img.shields.io/badge/Substance_Painter-262626?style=for-the-badge)
-![Marvelous Designer](https://img.shields.io/badge/Marvelous_Designer-000000?style=for-the-badge)
 
 ---
 
@@ -62,13 +55,39 @@
 - **Университет "Синергия"**  
   *Курс на Java-разработчика (2022)*
 
-
+---
 
 ### LeetCode Статистика
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/x1OKjgAcFK?theme=dark&amp;font=Fira%2520Code" alt="LeetCode Stats">
 </p>
+
+---
+
+
+### 🧪 **Тестирование**  
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛠 **Также владею**  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)  
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-4E4E4E?style=for-the-badge&logo=davinciresolve&logoColor=white)
+
+### 🎨 **3D**  
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
+![ZBrush](https://img.shields.io/badge/ZBrush-FFFFFF?style=for-the-badge)  
+![Substance Painter](https://img.shields.io/badge/Substance_Painter-4CAF50?style=for-the-badge)  
+![Marvelous Designer](https://img.shields.io/badge/Marvelous_Designer-FF8C00?style=for-the-badge)  
+![Marmoset Toolbag](https://img.shields.io/badge/Marmoset_Toolbag-FF0000?style=for-the-badge)  
+![fSpy](https://img.shields.io/badge/fSpy-404040?style=for-the-badge)
+
+
+
+
+
+---
 
 ### Контакты
 
