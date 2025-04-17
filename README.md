@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+%7C+Hibernate+%7C+SQL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Java+Backend;Spring+%7C+Hibernate+%7C+SQL" />
 </p>
 
 
@@ -16,6 +16,11 @@
 ---
 
 ### 🚀 **Проекты**
+
+#### [ExploreWithMe](https://github.com/Kztk-1/ExploreWithMe) 
+
+В ррразрработке (я картавый)
+
 
 #### [ShareIt](https://github.com/Kztk-1/ShareIt) 
 `Spring Boot` `Maven` `MySQL` `REST` `HTTP API`
@@ -72,7 +77,6 @@
 ![Substance Painter](https://img.shields.io/badge/Substance_Painter-4CAF50?style=for-the-badge)  
 ![Marvelous Designer](https://img.shields.io/badge/Marvelous_Designer-FF8C00?style=for-the-badge)  
 ![Marmoset Toolbag](https://img.shields.io/badge/Marmoset_Toolbag-FF0000?style=for-the-badge)  
-![fSpy](https://img.shields.io/badge/fSpy-404040?style=for-the-badge)
 
 ### 🛠 **Фото / Видео**  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
